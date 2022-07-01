@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dmz Hari</h1>
-<h3 align="center">Im DmzHari Im Junior Developer And Im Like Anime</h3>
+<h3 align="center">Im Junior Developer And Im Like Anime</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dmzhari&label=Profile%20views&color=0e75b6&style=flat" alt="dmzhari" /> </p>
 
